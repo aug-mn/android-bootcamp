@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">map demo</string>
+    
+    <string name="setting_Map_APIKey">03pR9djSigzRK4NnvFSfSNDT-7RhFE85ufYmNtw</string>    
+    
+</resources>
